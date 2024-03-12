@@ -1,0 +1,20 @@
+
+/* nav  */
+header .nav-item a:hover{
+    scale: 1.2;
+    text-decoration-line: underline;              
+    color: wheat !important;
+}
+/* nav------------- */
+
+/* under nav */
+.companies .card-group div.card:hover{
+    scale: 1.4;
+    transition: .7s;
+    z-index: 222;
+}
+
+
+
+
+/* end Under - Nav */
